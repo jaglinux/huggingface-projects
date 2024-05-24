@@ -1,5 +1,5 @@
 ---
-title: Document Loader
+title: URL chatbot
 emoji: 😻
 colorFrom: yellow
 colorTo: yellow
