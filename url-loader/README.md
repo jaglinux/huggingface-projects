@@ -11,3 +11,7 @@ license: openrail
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+# to run the app
+streamlit run app.py  
+(add streamlit in requirements.txt) 
